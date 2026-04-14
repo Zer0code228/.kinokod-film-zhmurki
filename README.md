@@ -1,7 +1,7 @@
 <html style="background-color: black">
   <header style="background-color: gray">
     <h1 style="color: green; font-size:50px"> 
-      <img width="480" height="248" alt="image" src="https://github.com/user-attachments/assets/ac334128-b382-4589-820e-ede791a88c42" />
+      <img src="https://github.com/user-attachments/assets/ac334128-b382-4589-820e-ede791a88c42" style="height:100px">
        КиноКод
       <i style="color: white; font-size:30px">
         - Таже викепедия только киновикипедия
