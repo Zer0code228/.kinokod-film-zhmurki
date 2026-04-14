@@ -14,7 +14,7 @@
       Жмурки
     </h1>
     <div class="flex-center">
-  <img src="assets/i (2).webp">
+  <img src="https://github.com/user-attachments/assets/dfee7a9c-ce3d-4fa1-9b0c-b65c8ed0fcd9">
     </div>
     <h1 style="font-size: 40px"> <br> О фильме </h1>
   <table style="border: 2px solid black; font-size: 35px; border-collapse:collapse">
