@@ -35,10 +35,6 @@
       <td style="border: 2px solid black;">чёрная комедия, криминал</td>
     </tr>
   </table>
-    <video width="640" height="360" controls>
-  <source src="assets/ZHmurki-1712_(anwap.org).mp4">
-  Ваш браузер не поддерживает видеотег.
-</video>
   </main>
 <footer style="background-color:black; height: 120px; text-align:center; color:white ">
   <h2>Автор сайта: <i>by.Дмитрий</i></h2>
